@@ -1,0 +1,2 @@
+module PinGenerationHelper
+end
